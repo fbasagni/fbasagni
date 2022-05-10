@@ -12,12 +12,6 @@ Hello, good people!
 </div>
   
 <div style="display: inline_block"><br>
-
-  <img align="center" alt="Fb-IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-  <img align="center" alt="Fb-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-  <img align="center" alt="Fb-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-  <img align="center" alt="Fb-Vagrant" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-</div>
   
   ##  
    
