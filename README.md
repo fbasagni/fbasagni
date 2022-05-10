@@ -1,7 +1,7 @@
 Hello, good people! 
 
-- 🔭 I’m currently working on Wipro Limited
-- 🌱 I’m currently learning Java and Ruby!
+- 🔭 I’m currently working on Pixeon Medical
+- 🌱 I’m currently learning Java and Cypress!
 - 💬 Ask me about anything!  
 
 
