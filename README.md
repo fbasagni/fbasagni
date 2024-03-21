@@ -1,8 +1,8 @@
 Hello, good people! 
 
-- 🔭 I’m currently working on Pixeon Medical
-- 🌱 I’m currently learning Java and Cypress!
-- 💬 Ask me about anything!  
+- 🔭 I’m currently working with Quality Assurance
+- 🌱 I’m currently learning everything about Software Testing!
+- 💬 How to reach me franbasagni@gmail.com 
 
 
  <div>
