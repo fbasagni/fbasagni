@@ -4,7 +4,7 @@
 
 🇧🇷 Sou QA Engineer com experiência no ciclo completo de desenvolvimento de software (SDLC), automação de testes e integração contínua (CI/CD). Atuei em projetos dos setores financeiro, saúde e e-commerce, unindo visão técnica e estratégica para garantir produtos de alta performance e entregas consistentes. Acredito que qualidade não é uma etapa final, e sim uma mentalidade compartilhada entre desenvolvimento, negócio e usuários.
 
-🇺🇸 QA Engineer with full SDLC experience in test automation and CI/CD. Worked across finance, healthcare and e-commerce sectors, bridging technical and strategic vision to ensure high-performance products. I believe quality is not a final step — it's a mindset shared across dev, business and users.
+🇺🇸 QA Engineer with full SDLC experience in test automation and CI/CD. Worked across finance, healthcare and e-commerce sectors, bridging technical and strategic vision to ensure high-performance products. I believe quality is not a final step, it's a mindset shared across dev, business and users.
 
 - 🔧 Working with: test automation, performance testing & AI agent testing
 - 📚 Learning: advanced Python, test architecture & LLM evaluation frameworks
